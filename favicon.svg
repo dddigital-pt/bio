@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="s" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#dcdcdc"/><stop offset="1" stop-color="#f0f0f0"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#80d23a"/><stop offset="1" stop-color="#aadf3c"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#11241f"/>
+  <!-- logo DD centrado no quadrado -->
+  <g transform="translate(90 159) scale(.22) translate(-204 -526)">
+    <path fill="url(#s)" d="M204 526H560C790 526 962 720 962 966C962 1212 790 1405 560 1405H204Z"/>
+    <path fill="url(#g)" d="M886 535H1245C1530 535 1715 740 1715 970C1715 1200 1530 1405 1245 1405H870C1010 1330 1103 1170 1103 970C1103 770 1010 620 886 535Z"/>
+  </g>
+</svg>
